@@ -1,0 +1,1 @@
+"hello" is the first word written by a programmer in "hello world" program.
