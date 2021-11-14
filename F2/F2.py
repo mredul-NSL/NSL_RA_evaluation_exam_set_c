@@ -46,7 +46,8 @@ model.compile(loss='binary_crossentropy',
               metrics=['accuracy'])
 
 # All images will be rescaled by 1./255
-train_datagen = ImageDataGenerator(rescale=1./255)
+train_datagen = ImageDataGenerator(rescale=1./255, rotation_range = 90, horizontal_flip= True, zoom_range=.2,
+                                   width_shift_range=0.1, height_shift_range=0.1)
 test_datagen = ImageDataGenerator(rescale=1./255)
 
 # Flow training images in batches of 20 using train_datagen generator
