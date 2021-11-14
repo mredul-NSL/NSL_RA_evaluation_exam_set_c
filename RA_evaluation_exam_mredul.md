@@ -1,4 +1,5 @@
-#Answer Sheet#
+# Answer Sheet
+
 **A.	Unix Commands**
 A1.
 	Directly open the image from terminal using below methods.
