@@ -1,5 +1,5 @@
-Answer Sheet
-A.	Unix Commands
+*Answer Sheet*
+**A.	Unix Commands**
 A1.
 	Directly open the image from terminal using below methods.
 	Write the following command in terminal.
@@ -29,7 +29,7 @@ A5.
 	python --version
 
 
-B.	Python Basic
+**B.	Python Basic**
 B1.
 	def method_name(*arg, **args):
     	pass
@@ -77,7 +77,7 @@ try:
         return "You can't divide by zero"
 See B5.py file for detailed working code.
 
-C.	Python OOP
+**C.	Python OOP**
 C1. 
 	The solution of the problems is written at C1.py file.
 C2.
@@ -101,7 +101,7 @@ E1.
 E2.
 	The solution of this problem is written at E2.py file. “np.sum(A, axis=3)” this portion of the code solves the problem.
 
-F.	Deep Learning
+**F.	Deep Learning**
 F1.
 	The solution of this problem can be found in F1.py file. To run this code first run the mredul_exam_env.yml file to create the environment. 
 F2.
