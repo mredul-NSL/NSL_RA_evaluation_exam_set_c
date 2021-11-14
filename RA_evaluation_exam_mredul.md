@@ -4,13 +4,14 @@
 ### A1.
 	Directly open the image from terminal using below methods.
 	Write the following command in terminal.
+	'''
 •	cd /image_directory
 go the image directory where the image file resides. 
 •	eog sample.png
 This line will open the required image file
 Or you can directly write the following command.
 •	eog /image_directory/sample.png
-
+'''
 ### A2.
 Use the following scp command at the terminal to solve this problem.
 	scp -r user_name@ip_address_of_remote:/path/to/remote/directory /path/to/local/directory
