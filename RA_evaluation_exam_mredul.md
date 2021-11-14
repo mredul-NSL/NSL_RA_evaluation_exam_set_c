@@ -1,6 +1,6 @@
 # Answer Sheet
 
-**A.	Unix Commands**
+## A.	Unix Commands
 A1.
 	Directly open the image from terminal using below methods.
 	Write the following command in terminal.
@@ -30,7 +30,7 @@ A5.
 	python --version
 
 
-**B.	Python Basic**
+## B.	Python Basic
 B1.
 	def method_name(*arg, **args):
     	pass
@@ -78,7 +78,7 @@ try:
         return "You can't divide by zero"
 See B5.py file for detailed working code.
 
-**C.	Python OOP**
+## C.	Python OOP
 C1. 
 	The solution of the problems is written at C1.py file.
 C2.
@@ -96,13 +96,13 @@ D3.
 	In this problem two lists were generated where we search for each value of second list if it exists in the first list. Because searching in the list the search time is higher. In worst case which is O(n) thus the execution time is higher. 
 	To lower execution time we replaced the list by dictionary. Dictionary used Hash map to store values. Thus, searching in dictionary is way faster. That’s how we lowered the execution time.
 
-E.	Numpy
+## E.	Numpy
 E1.
 	The solution of this problem is written at E1.py file.
 E2.
 	The solution of this problem is written at E2.py file. “np.sum(A, axis=3)” this portion of the code solves the problem.
 
-**F.	Deep Learning**
+## F.	Deep Learning
 F1.
 	The solution of this problem can be found in F1.py file. To run this code first run the mredul_exam_env.yml file to create the environment. 
 F2.
