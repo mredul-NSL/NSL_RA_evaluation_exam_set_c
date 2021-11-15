@@ -15,11 +15,11 @@ Or you can directly write the following command.
 ### A2.
 Use the following scp command at the terminal to solve this problem.
 ```
-	scp -r user_name@ip_address:/path/to/remote/directory user_name@ip_address:/path/to/local/directory
+	scp -r user_name@ip_address:/path/to/directory user_name@ip_address:/path/to/directory
 	
 	or simply
 	
-	scp -r [source] [destination]
+	scp -r [file_source] [file_destination]
 ```
 
 ### A3.
