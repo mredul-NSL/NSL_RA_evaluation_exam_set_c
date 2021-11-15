@@ -16,6 +16,10 @@ Or you can directly write the following command.
 Use the following scp command at the terminal to solve this problem.
 ```
 	scp -r user_name@ip_address:/path/to/remote/directory user_name@ip_address:/path/to/local/directory
+	
+	or simply
+	
+	scp -r [source] [destination]
 ```
 
 ### A3.
